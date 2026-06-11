@@ -1,5 +1,6 @@
 # Implementation-of-MC-prediction-for-estimating-the-state-value-function-
-
+### Name : Adhithya K
+### reg no : 2305002001
 ## Aim
 
 To implement the Monte Carlo (MC) Prediction algorithm for estimating the state-value function of an agent interacting with an environment and to calculate and plot the estimated state-value function.
